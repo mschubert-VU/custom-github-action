@@ -1,0 +1,6 @@
+name: 'custom example action'
+description: 'An example action that prints a message'
+
+runs:
+  using: 'node20'
+  main: 'dist/index.js'
